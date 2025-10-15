@@ -1,4 +1,12 @@
 
+"""
+Name:  Tenzin Choeni
+Email: tenzin.choeni60@myhunter.cuny.edu
+Date: September 8, 2025
+This program prints a message in both upper and lower case
+"""
+
+
 
 def majority3(in1, in2, in3):
     """
