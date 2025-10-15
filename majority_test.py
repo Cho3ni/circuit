@@ -1,9 +1,9 @@
 
 """
-Name:  Tenzin Choeni
-Email: tenzin.choeni60@myhunter.cuny.edu
-Date: September 8, 2025
-This program prints a message in both upper and lower case
+Tenzin Choeni
+tenzin.choeni60@myhunter.cuny.edu
+October 15
+makes a true or false
 """
 
 
